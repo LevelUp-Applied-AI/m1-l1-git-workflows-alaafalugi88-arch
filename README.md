@@ -1,13 +1,15 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/FdVrU54p)
-# [Project Title — e.g., Hospital Admission Records Analysis]
+# Hospital Admission Analysis
 
-> **Lab 1 starter repo** — Replace the heading above with your project title. Team member names are not part of the lab — they go in Section 2 of your completed README in the integration task.
+This project analyzes hospital admission data.  
+It provides a reproducible Python environment that allows team members to easily set up and run the project.
 
 ---
 
 ## Project Overview
 
-TODO: Write 2–3 sentences describing what this project does and who it is for.
+This project focuses on preparing a clean and reproducible environment for analyzing hospital admission records.  
+By using a virtual environment and a requirements file, any team member can quickly replicate the setup and run the analysis without issues.
 
 ---
 
